@@ -12,7 +12,7 @@ Para usar decoradores con Vuex se instalaron:
 -- vuex-module-decorators
 -- babel-plugin-transform-decorators
 -- tslib
-Se estableceió a true en tsconfig los siguientes atributos:
+Se estableció a true en tsconfig los siguientes atributos:
 -- experimentalDecorators (ya estaba true)
 -- "emitHelpers": true
 -- "importHelpers": true
